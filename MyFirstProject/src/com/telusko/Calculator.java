@@ -1,6 +1,6 @@
 package com.telusko;
 
-// Calc Class
+// Calculator Class
 public class Calculator 
 {
 	public int add(int i,int j)
